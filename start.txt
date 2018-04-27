@@ -1,2 +1,3 @@
 Test Git Quick Start demo
 Test change
+Test stage diff
