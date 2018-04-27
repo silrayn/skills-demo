@@ -4,3 +4,4 @@ Test stage diff
 Working Directory
 
 lala
+Example brn
